@@ -21,8 +21,8 @@ Bash script that sets up a new React (Vite) or Next.js project on your Desktop w
 
 ```
 scripts/
-├── createNextApp/
-│   └── createNextAppMain.sh
+├── createReactApp/
+│   └── createReactAppMain.sh
 └── lib/
     └── askUser.sh
 ```
@@ -30,8 +30,8 @@ scripts/
 ## Usage
 
 ```bash
-chmod +x scripts/createNextApp/createNextAppMain.sh
-./scripts/createNextApp/createNextAppMain.sh
+chmod +x scripts/createReactApp/createReactAppMain.sh
+./scripts/createReactApp/createReactAppMain.sh
 ```
 
 ## Customizing
