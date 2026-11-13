@@ -1,4 +1,4 @@
-# createNextApp
+# createReactApp
 
 Bash script that sets up a new React (Vite) or Next.js project on your Desktop with your own folder structure.
 
@@ -36,4 +36,4 @@ chmod +x scripts/createNextApp/createNextAppMain.sh
 
 ## Customizing
 
-Edit `PROJECT_FOLDERS` at the top of `createNextAppMain.sh` to change the folders created in `src/`.
+Edit `PROJECT_FOLDERS` at the top of `createReactApp.sh` to change the folders created in `src/`.
